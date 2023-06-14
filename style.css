@@ -6,8 +6,21 @@
 #wrapper {
     width: 100%;
     max-width: 990px;
+    background-color: white;
     margin: 0 auto;
 }
 #top {
     background: url(img/title.jpg) top left no-repeat;
+}
+#menu01 {
+    background: url(img/background-motive.jpg);
+    max-width: 990px;
+}
+#menu02 {
+    background: url(img/background-motive.jpg);
+    max-width: 990px;
+}
+#menu03 {
+    background: url(img/background-motive.jpg);
+    max-width: 990px;
 }

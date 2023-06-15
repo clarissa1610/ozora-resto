@@ -11,6 +11,7 @@
 }
 #top {
     background: url(img/title.jpg) top left no-repeat;
+    max-width: 990px;
 }
 #menu01 {
     background: url(img/background-motive.jpg);
@@ -23,4 +24,12 @@
 #menu03 {
     background: url(img/background-motive.jpg);
     max-width: 990px;
+}
+.menu ul li img {
+    display: block;
+    float: left;
+    width: 33,3%;
+}
+ul {
+    list-style-type: none;
 }

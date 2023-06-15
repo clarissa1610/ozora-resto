@@ -33,3 +33,11 @@
 ul {
     list-style-type: none;
 }
+#content div {
+    height: 400px;
+}
+#content #menu01 h2 {
+    position: absolute;
+    top: 1210px;
+    right: 400px;
+}

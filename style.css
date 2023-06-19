@@ -45,9 +45,10 @@ ul {
     font-family: UDDigiKyokashoN-B;
     src: url(font/UDDigiKyokashoN-B.ttc)
 }
-p {
+#content #menu01 p {
     position: absolute;
     top: 1340px;
+    line-height: 45px ;
     right: 350px;
     font-size: 30px;
     color: #8b6750;

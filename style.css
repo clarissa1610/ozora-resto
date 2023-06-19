@@ -38,6 +38,10 @@ ul {
 }
 #content #menu01 h2 {
     position: absolute;
-    top: 1210px;
-    right: 340px;
+    top: 1240px;
+    right: 150px;
+    font-size: 40px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc)
 }

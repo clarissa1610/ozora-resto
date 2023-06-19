@@ -39,6 +39,7 @@ ul {
 #content #menu01 h2 {
     position: absolute;
     top: 1220px;
+    line-height: 50px;
     right: 340px;
     font-size: 40px;
     color: #8b6750;
@@ -50,6 +51,29 @@ ul {
     top: 1340px;
     line-height: 45px ;
     right: 350px;
+    font-size: 30px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc)
+}
+#content #menu02 div {
+    height: 400px;
+}
+#content #menu02 h2 {
+    position: absolute;
+    top: 1850px;
+    right: 400px;
+    line-height: 50px;
+    font-size: 40px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc)
+}
+#content #menu02 p {
+    position: absolute;
+    top: 1970px;
+    line-height: 45px ;
+    right: 340px;
     font-size: 30px;
     color: #8b6750;
     font-family: UDDigiKyokashoN-B;

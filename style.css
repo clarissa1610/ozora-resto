@@ -79,3 +79,26 @@ ul {
     font-family: UDDigiKyokashoN-B;
     src: url(font/UDDigiKyokashoN-B.ttc)
 }
+#content #menu03 div {
+    height: 400px;
+}
+#content #menu03 h2 {
+    position: absolute;
+    top: 2480px;
+    right: 325px;
+    line-height: 50px;
+    font-size: 40px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc)
+}
+#content #menu03 p {
+    position: absolute;
+    top: 2600px;
+    line-height: 45px ;
+    right: 340px;
+    font-size: 30px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc)
+}

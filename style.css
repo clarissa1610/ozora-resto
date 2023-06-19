@@ -109,11 +109,59 @@ ul {
 }
 #coupon #background-coupon {
     position: absolute;
-    z-index: 1;
 }
 #coupon .coupon {
     position: absolute;
     top: 2870px;
     right: 235px;
-    z-index: 2;
+}
+#bottom #access h2 {
+    position: absolute;
+    top: 3140px;
+    line-height: 45px ;
+    right: 600px;
+    font-size: 60px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc);
+}
+#bottom #access .line-one {
+    position: absolute;
+    top: 3200px;
+    line-height: 50px ;
+    right: 500px;
+    font-size: 40px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc);
+}
+#bottom #access .line-two {
+    position: absolute;
+    top: 3250px;
+    line-height: 50px ;
+    right: 530px;
+    font-size: 40px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc);
+}
+#bottom #access .note-lineone {
+    position: absolute;
+    top: 3320px;
+    line-height: 50px ;
+    right: 570px;
+    font-size: 20px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc);
+}
+#bottom #access .note-linetwo {
+    position: absolute;
+    top: 3350px;
+    line-height: 50px ;
+    right: 520px;
+    font-size: 20px;
+    color: #8b6750;
+    font-family: UDDigiKyokashoN-B;
+    src: url(font/UDDigiKyokashoN-B.ttc);
 }

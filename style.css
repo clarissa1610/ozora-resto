@@ -102,3 +102,18 @@ ul {
     font-family: UDDigiKyokashoN-B;
     src: url(font/UDDigiKyokashoN-B.ttc)
 }
+#bottom #coupon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#coupon #background-coupon {
+    position: absolute;
+    z-index: 1;
+}
+#coupon .coupon {
+    position: absolute;
+    top: 2870px;
+    right: 235px;
+    z-index: 2;
+}
